@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
-<h3 align="center">I'm a person whose interests are in various fields like graphic designing, web development etc. I am from India</h3>
+<h3 align="center">I'm a person whose interests are in various fields like graphic designing, web development etc.<br>I am from India</h3>
 
 - 🌱 I’m currently learning **web development**
 
